@@ -1,0 +1,131 @@
+.rear_color{
+    width: 621px;
+    height: 462px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.stroke{
+    width: 600px;
+    height: 435px;
+    border: solid 1px black;
+}
+.search{
+    width:98%;
+    height: 45px;
+}
+.content{
+    height:390px;
+    display: flex;
+}
+h2{
+    font-size: 70px;
+    padding: 20px;
+    margin: 0;
+}
+.left{
+    width: 298px;
+    border-right: solid 1px black;
+    height: 390px;
+}
+.weather_picture{
+    margin-left:35%;
+}
+.heart{
+    height: 22px;
+    width: 22px;
+}
+.likes{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 98px;
+    margin-left: 12px;
+    margin-right: 26px;
+    height: 58px;
+}
+.likes_text{
+    font-size: 24px;
+    margin: 0;
+}
+.menu{
+    border-top:solid 1px black;
+}
+ul{
+    margin: 0;
+    display:flex;
+    padding:0;
+    text-align: center;
+}
+li{
+    width: 99px;
+    height: 44px;
+    list-style: none;
+    font-size: 18px;
+    border-right: 1px solid black;
+}
+.location{
+    width:301px;
+    text-align: center;
+    border-bottom:solid 1px black;
+    font-size: 24px;
+}
+.cities{
+    margin-top: 45px;
+    margin-left:18px;
+    font-size: 24px;
+}
+.cities p{
+    margin: 0;
+    margin-top: 5px;
+}
+.name_city{
+    font-size:24px;
+    margin-top:28px;
+    margin-left: 17px;
+}
+.weather_info{
+    margin-left: 17px;
+    margin-top: 42px;
+    font-size: 24px;
+    height: 242px;
+}
+.weather_info p{
+    margin: 0;
+    margin-top: 10px;
+}
+
+.day_time{
+    display: flex;
+    justify-content: space-around;
+}
+.card_pad{
+    display: flex;
+    justify-content: space-around;
+}
+.temperatura_week{
+    width:265px;
+    height: 120px;
+    border:solid 1px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+.card_img img{
+    width: 31px;
+    height: 31px;
+}
+.card_img p{
+    margin-bottom: 0;
+}
+.scroll{
+    overflow: hidden;
+    height: 284px;
+}
+.name_city p{
+    margin: 0;
+}
+.one{
+    display: none;
+}
+.two{
+    display: none;
+}
